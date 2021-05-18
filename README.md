@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Ishika Shah. I am a Data Science Enthusiast currently in the third year of my undergraduate course.
+
+I am actively looking for internships in Machine Learning, Deep Learning, Data Mining.
+My skills include python, java, django, C, R, HTML, JS, CSS, Bootstrap.
+I am currently a python development intern at CPPSecrets.
+
+## Find me around the Web🌏
+- <a href='https://www.linkedin.com/in/ishika-shah-234663183/'>Linkedin</a>
+- <a href='https://cppsecrets.com/user/index.php?uid=13355'>CPPSecrets</a>
+
+
+
