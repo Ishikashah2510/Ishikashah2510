@@ -26,4 +26,5 @@ I am currently a python development intern at CPPSecrets.
 - <a href='https://cppsecrets.com/user/index.php?uid=13355'>CPPSecrets</a>
 
 
-
+### Glad to see you here!
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishikashah2510&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
