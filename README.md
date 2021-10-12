@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Ishika Shah. I am a Data Science Enthusiast currently in the third year of my undergraduate course.
 
 I am actively looking for internships in Machine Learning, Deep Learning, Data Mining.
-My skills include python, java, django, C, R, HTML, JS, CSS, Bootstrap.
+My skills include python, java, django, C, R, Kotlin, HTML, JS, CSS, Bootstrap.
 I am currently a Technical Lead at CPPSecrets.
 
 ## Find me around the Web🌏
