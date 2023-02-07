@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ishika Shah. I am a Data Science Enthusiast currently in the third year of my undergraduate course.
+My name is Ishika Shah. I am a Data Science Enthusiast currently enrolled as a Masters of Science in Computer Science student at <b>San Francisco State University</b>.
 
 I am actively looking for internships in Machine Learning, Deep Learning, Data Mining.
 My skills include python, java, django, C, R, Kotlin, HTML, JS, CSS, Bootstrap.
 My Past Experience involves interning as a Python Developer at CppSecrets Technologies Pvt. Ltd. for 2 months. (May'21-Jul'21)
 After which I had been converted to a Technical Lead, part time at the same firm. (Aug'21-Dec'21)
 I have also interned at ZS Associates as a Business Technology Solutions Associate Intern beginnning Jan'22 until Jun'22. Post this, I worked as a full time Business Technology Solutions Associate beginning Jul'22 till Dec'22.
-As of today, I am enrolled as a Masters of Science in Computer Science student at <b>San Francisco State University</b>.
 
 ## Find me around the Web🌏
 - <a href='https://www.linkedin.com/in/ishika-shah-234663183/'>Linkedin</a>
