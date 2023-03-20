@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ishika Shah. I am a Data Science Enthusiast currently enrolled as a Masters of Science in Computer Science student at <b>San Francisco State University</b>.
+My name is Ishika Shah. I am currently enrolled as a Masters of Science in Computer Science student at <b>San Francisco State University</b>.
 
 I am actively looking for internships in Machine Learning, Deep Learning, Data Mining.
 My skills include python, java, django, C, R, Kotlin, HTML, JS, CSS, Bootstrap.
